@@ -1,0 +1,24 @@
+{
+  "name": "3-mars",
+  "version": "1.0.0",
+  "description": "md = markdown",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torden11/3-mars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Torden11/3-mars/issues"
+  },
+  "homepage": "https://github.com/Torden11/3-mars#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
